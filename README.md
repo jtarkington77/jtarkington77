@@ -1,4 +1,4 @@
-# Hi, I’m Jeremy Tarkington 👋
+# Hi, I’m Jeremy Tarkington 
 
 **B.S. Cybersecurity Student** – Western Governors University  
 Building skills through **TryHackMe**, **Hack The Box**, and **AWS** projects  

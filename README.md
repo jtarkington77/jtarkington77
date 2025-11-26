@@ -9,7 +9,7 @@ Building **realistic blue-team home labs, phishing/OSINT workflows, and security
 
 - **CyberLab** – My full cyber lab setup: virtualization host, networks, and workflow notes for day-to-day experimentation and practice.
 - **Home-Lab-Samba-AD-Wazuh** – Enterprise-style home lab with Windows AD, Samba, and Wazuh SIEM for log collection, detection engineering, and blue-team practice.
-- **VenomousViper** *(private releasing soon)* – A Windows triage and persistence toolkit focused on incident response and endpoint analysis.
+- **ViperKit** – A Windows triage and persistence toolkit focused on incident response and endpoint analysis.
 - **Phishing & OSINT Projects**
   - `phishing-osint-orphanageatd` – OSINT + phishing-recon workflows and experiments.
   - `phishing-analysis-opencase` – Structured analysis of phishing incidents and how to break them down like a case file.

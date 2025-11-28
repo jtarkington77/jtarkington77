@@ -5,6 +5,16 @@ Building **realistic blue-team home labs, phishing/OSINT workflows, and security
 
 ---
 
+## 🔗 Portfolio
+
+For full case studies, screenshots, and write-ups, go here:
+
+- 🌐 **Portfolio:** https://jtarkington-portfolio.netlify.app
+
+GitHub is mainly where I keep the code/configs; the long-form write-ups live on the portfolio so I don’t have to maintain them in two places.
+
+---
+
 ## 🔭 What I’m Building Here
 
 - **CyberLab** – My full cyber lab setup: virtualization host, networks, and workflow notes for day-to-day experimentation and practice.
@@ -13,9 +23,8 @@ Building **realistic blue-team home labs, phishing/OSINT workflows, and security
 - **Phishing & OSINT Projects**
   - `phishing-osint-orphanageatd` – OSINT + phishing-recon workflows and experiments.
   - `phishing-analysis-opencase` – Structured analysis of phishing incidents and how to break them down like a case file.
-- **thm-htb-writeups** – Earlier TryHackMe / Hack The Box write-ups kept for history and reference.
 
-I’m using this GitHub mainly as a **proof-of-work log** for my security journey: home lab builds, write-ups, and tools that I actually use.
+I’m using this GitHub mainly as a **proof-of-work log** for my security journey: home lab builds and tools that I actually use.
 
 ---
 
@@ -30,6 +39,5 @@ I’m using this GitHub mainly as a **proof-of-work log** for my security journe
 
 ## 📫 Connect
 
-- [TryHackMe Profile](https://tryhackme.com/p/jtarkington.dev)  
 - [LinkedIn](https://www.linkedin.com/in/jeremy-tarkington-dev/)  
-- [Email](jtarkington.dev@gmail.com)
+- [Email](mailto:jtarkington.dev@gmail.com)
